@@ -6,4 +6,6 @@
 
 <h2>Ekran Görüntüsü</h2>
 
-![Ekran görüntüsü](images/yemek.gif)
+![Ekran görüntüsü][def]
+
+[def]: images/yemek.gif
