@@ -6,4 +6,4 @@
 
 <h2>Ekran Görüntüsü</h2>
 
-![Image](https://github.com/user-attachments/assets/4a9b7319-c332-4057-bd7a-8f48d7552612)
+![Ekran görüntüsü](images/yemek.gif)
