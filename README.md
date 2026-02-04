@@ -8,7 +8,7 @@
 
 <h2>Ekran Görüntüsü</h2>
 
-<<<<<<< HEAD
+
 ![Ekran görüntüsü][def]
 
 [def]: images/yemek.gif
