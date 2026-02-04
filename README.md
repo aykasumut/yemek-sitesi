@@ -1,4 +1,4 @@
-<h1>Yemek Sitesi Projesih1</h1>
+<h1>Yemek Sitesi Projesi</h1>
 
 <p>Yemek siparişi etmek için uygulanan site projesi<p>
 
